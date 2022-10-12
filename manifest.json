@@ -1,0 +1,24 @@
+{
+    "name": "PWA IDA",
+    "short_name": "PWA",
+    "description": "Aplicación PWA en curso UTA",
+    "background-color": "#FFF",
+    "theme_color": "#333",
+    "orientation": "portraint",
+    "display": "standalone",
+    "start_url": "./index.html?utm=source=web_app_manifest",
+    "scope": "./",
+    "long": "es-Mx",
+    "icons": [
+    {
+        "src": "./img/favicon.png",
+        "size": "1024x1024",
+        "type": "./img/png"
+    },
+    {
+        "src": "./img/favicon.png",
+        "size": "512x512",
+        "type": "./img/png"
+    }
+]
+}
